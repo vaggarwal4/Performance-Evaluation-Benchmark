@@ -1,4 +1,4 @@
-# vaggarwal4-Performance-Evaluation-Benchmark
+# Performance-Evaluation-Benchmark
 Performance Evaluation Benchmark
 
 This Benchmark need GCC, G++ Compiler and AVX Libraries for CPU Benchmarking and Pthread Library for all Benchmarkings.
